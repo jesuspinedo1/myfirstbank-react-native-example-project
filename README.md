@@ -1,1 +1,1 @@
-# myfirstbank-react-native-example-project
+# Simple aplicación de banco hecha en rect native expo cli
