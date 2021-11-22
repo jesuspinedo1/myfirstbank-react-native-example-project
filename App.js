@@ -1,3 +1,8 @@
+/*
+Autor: Jesus Pinedo
+21/11/2021
+Todos los derechos reservados
+*/
 import React from 'react';
 import Navigation from './app/navigation/Navigation';
 import {firebaseApp} from "./app/utils/firebase";
