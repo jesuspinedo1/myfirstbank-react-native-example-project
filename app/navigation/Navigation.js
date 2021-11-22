@@ -1,3 +1,8 @@
+/*
+Autor: Jesus Pinedo
+21/11/2021
+Todos los derechos reservados
+*/
 import React from "react";
 import {NavigationContainer} from "@react-navigation/native";
 import {createBottomTabNavigator} from "@react-navigation/bottom-tabs";
